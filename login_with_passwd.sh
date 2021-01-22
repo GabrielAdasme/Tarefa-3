@@ -1,8 +1,10 @@
 #!/bin/bash
 
+# Script para conectar em server via ssh com senha.
 
 # Como utilizar:
 # ./seuscript.sh -u usuario -p senha -s host
+
 
 
 # Setar variaveis em targ para ordenar entradas
